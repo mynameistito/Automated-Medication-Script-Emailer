@@ -36,7 +36,7 @@ var SETTINGS = {
     executeEvery: 30,
     medicines: ["Medicine 1", "Medicine 2", "Medicine 3"]
 };
-
+```
 
 ### Step 2: Deploy the Script
 
@@ -78,4 +78,3 @@ Contributions to this project are welcome. Please fork this repository and submi
 ---
 
 For more information or support, please open an issue in this repository.
-```
