@@ -1,4 +1,3 @@
-```
 # Automated Medication Script Emailer (Gmail / Google Workspace)
 
 This Google Apps Script is designed to automate the process of sending emails for the resupply of medical scripts. It's particularly useful for patients or caregivers who need to regularly communicate with healthcare providers about ongoing medication needs.
@@ -37,7 +36,7 @@ var SETTINGS = {
     executeEvery: 30,
     medicines: ["Medicine 1", "Medicine 2", "Medicine 3"]
 };
-```
+
 
 ### Step 2: Deploy the Script
 
