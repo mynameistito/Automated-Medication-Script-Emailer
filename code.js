@@ -11,7 +11,7 @@ var SETTINGS = {
         "Medicine 2",
         "Medicine 3",
         // Add more medicines as needed
-    ]I
+    ]
 };
 
 function sendMonthlyEmail() {
